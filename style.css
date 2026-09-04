@@ -1,0 +1,61 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+.navbar{
+	padding:0px 64px;
+	margin:0px;	
+	height:70px;
+	border-bottom:1px solid black;
+}
+.float{
+	float:left;
+}
+.box{
+	margin:10px 20px;
+	height:60px;
+}
+.logo{
+	width:160px;
+	font-size:50px;
+	color:#730873;
+}
+.search{
+	margin:15px 0px 0px 0px;
+	width:550px;
+	height:44px;
+	border:1px solid black;
+	border-radius:5px;
+}
+.para{
+	margin-top:5px;
+}
+.list{
+	padding:5px 10px;
+
+}
+.listimg{
+	height:30px;
+}
+.listimg1{
+	padding-left:5px;
+	height:20px;
+}
+.texts{
+	padding:0px 32px;
+	width:550px;
+}
+.lis{
+	font-size:19px;
+	padding:15px 25px;
+}
+.liss{
+	padding:5px 20px;
+}
+.hed{
+	padding-right:10px;
+}
+a{
+	color:black;
+	text-decoration:none;
+}
